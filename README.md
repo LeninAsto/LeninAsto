@@ -11,6 +11,9 @@
 
 I just want to be a recognized programmer =D
 
+Active hours: 
+10:00 AM – 11:00 PM                        (PER - COL - ECU - PAN - JAM / UTC - 5)
+
 🌍 **Ubicación:** Perú  
 🎥 **YouTube:** [Lenin_Anonimo_Of](https://www.youtube.com/@Lenin_Anonimo_Of/)  
 ☕ **Buy Me a Coffe:** [Coffe!](https://buymeacoffee.com/lenin_anonimo_of)  
