@@ -43,8 +43,8 @@ Active hours:
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=LeninAsto&color=blueviolet)
-  
+  ![Profile Views](https://count.getloli.com/@lel?theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
   ⭐️ From [LeninAsto](https://github.com/LeninAsto)
   
 </div>
