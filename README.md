@@ -1,27 +1,28 @@
-# ¡Hola! 👋 Soy Lenin Asto
-
 <div align="center">
+  <h1>
+    Soy Lenin Asto
+  </h1>  
   
   ![GitHub followers](https://img.shields.io/github/followers/LeninAsto?style=social)
   ![GitHub User's stars](https://img.shields.io/github/stars/LeninAsto?style=social)
-  
-</div>
+    
+  I just want to be a recognized programmer =D
 
-## 👨‍💻 Sobre mí
 
-I just want to be a recognized programmer =D
+
 
 Active hours: 
 10:00 AM – 11:00 PM                        (PER - COL - ECU - PAN - JAM / UTC - 5)
 
-🌍 **Ubicación:** Perú  
-🎥 **YouTube:** [Lenin_Anonimo_Of](https://www.youtube.com/@Lenin_Anonimo_Of/)  
-☕ **Buy Me a Coffe:** [Coffe!](https://buymeacoffee.com/lenin_anonimo_of)  
-📅 **En GitHub desde:** Noviembre 2022
+ **Ubicación:** Perú  
+ 
+ **YouTube:** [Lenin_Anonimo_Of](https://www.youtube.com/@Lenin_Anonimo_Of/) 
+ 
+ **Buy Me a Coffe:** [Coffe!](https://buymeacoffee.com/lenin_anonimo_of)  
 
-## 📊 Estadísticas de GitHub
+ **En GitHub desde:** Noviembre 2022
 
-<div align="center">
+## Estadísticas de GitHub
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeninAsto&show_icons=true&theme=radical)
   
@@ -29,21 +30,16 @@ Active hours:
   
 </div>
 
-## 🔥 Actividad Reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 📫 Conecta conmigo
-
-- 🎥 YouTube: [@Lenin_Anonimo_Of](https://www.youtube.com/@Lenin_Anonimo_Of/)
-- 💼 GitHub: [@LeninAsto](https://github.com/LeninAsto)
-
 ---
 
 <div align="center">
   
-  <img src="https://count.getloli.com/@lel?theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views"/>
-  ⭐️ From [LeninAsto](https://github.com/LeninAsto)
+  YouTube: [@Lenin_Anonimo_Of](https://www.youtube.com/@Lenin_Anonimo_Of/)
   
+  GitHub: [@LeninAsto](https://github.com/LeninAsto)
+
+  <img src="https://count.getloli.com/@lel?theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views"/>  
 </div>
+<h3 align="center">
+  ®2026 LeninAsto
+</h3>
